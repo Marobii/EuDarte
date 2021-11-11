@@ -1,0 +1,38 @@
+/** Menu **/
+.bg-dark {
+    background-color: #333333 !important;
+}
+
+/** Edição do texto na navbar **/
+.navbar.navbar-dark .navbar-nav > li > a {
+    color: #7B7D7D;
+}
+.navbar.navbar-dark .navbar-nav > li > a:hover,
+.navbar.navbar-dark .navbar-nav > li > a:focus {
+    color: #ffffff;
+}
+
+.dropdown-menu{
+    background-color: #333333 !important;
+}
+a.dropdown-item{
+    color: #ffffff !important;
+}
+a.dropdown-item:hover{
+    background-color: #ffffff !important;
+    color: #333333 !important;
+}
+
+/** Menu **/
+
+
+/** Forms **/
+.mform{
+    margin-top: 40px;
+}
+/** Forms **/
+
+
+
+
+
